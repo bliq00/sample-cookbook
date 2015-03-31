@@ -7,3 +7,4 @@ test
 -even moar stuff
 -yet moar stuff
 -yay for moar stuff
+-syntax testing
